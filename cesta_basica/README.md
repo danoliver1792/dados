@@ -11,3 +11,7 @@
   <p>Com dados da API do Bacen, podemos analisar o valor da cesta básica na cidade de Curitiba - PR no ano de 2021. Foi usado o Python para extrair os dados
 e o Power BI para montagem do dashboard para visualização.</p>
  <img src='https://user-images.githubusercontent.com/99451711/205509289-c648f853-0897-49a8-a51b-ba2cb0a0ab27.JPG'>
+<br/>
+<h1>Referências</h1>
+<a href='https://silvestrealimentos.com.br/2020/09/07/entenda-como-e-calculado-o-valor-da-cesta-basica-no-brasil/'>
+Entenda como é calculado o valor da cesta básica no Brasil.</a>
